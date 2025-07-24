@@ -1,0 +1,14 @@
+/home/andresive/csharp/youtube/aula0/aula08/bin/Debug/net8.0/aula08
+/home/andresive/csharp/youtube/aula0/aula08/bin/Debug/net8.0/aula08.deps.json
+/home/andresive/csharp/youtube/aula0/aula08/bin/Debug/net8.0/aula08.runtimeconfig.json
+/home/andresive/csharp/youtube/aula0/aula08/bin/Debug/net8.0/aula08.dll
+/home/andresive/csharp/youtube/aula0/aula08/bin/Debug/net8.0/aula08.pdb
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.GeneratedMSBuildEditorConfig.editorconfig
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.AssemblyInfoInputs.cache
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.AssemblyInfo.cs
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.csproj.CoreCompileInputs.cache
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.dll
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/refint/aula08.dll
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.pdb
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/aula08.genruntimeconfig.cache
+/home/andresive/csharp/youtube/aula0/aula08/obj/Debug/net8.0/ref/aula08.dll

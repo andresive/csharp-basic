@@ -1,0 +1,14 @@
+/home/andresive/csharp/youtube/aula0/teste/bin/Debug/net8.0/teste
+/home/andresive/csharp/youtube/aula0/teste/bin/Debug/net8.0/teste.deps.json
+/home/andresive/csharp/youtube/aula0/teste/bin/Debug/net8.0/teste.runtimeconfig.json
+/home/andresive/csharp/youtube/aula0/teste/bin/Debug/net8.0/teste.dll
+/home/andresive/csharp/youtube/aula0/teste/bin/Debug/net8.0/teste.pdb
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.AssemblyInfoInputs.cache
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.AssemblyInfo.cs
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.csproj.CoreCompileInputs.cache
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.dll
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/refint/teste.dll
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.pdb
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
+/home/andresive/csharp/youtube/aula0/teste/obj/Debug/net8.0/ref/teste.dll

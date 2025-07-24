@@ -1,0 +1,14 @@
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/bin/Debug/net8.0/primeiro_codigo
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/bin/Debug/net8.0/primeiro_codigo.deps.json
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/bin/Debug/net8.0/primeiro_codigo.runtimeconfig.json
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/bin/Debug/net8.0/primeiro_codigo.dll
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/bin/Debug/net8.0/primeiro_codigo.pdb
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.GeneratedMSBuildEditorConfig.editorconfig
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.AssemblyInfoInputs.cache
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.AssemblyInfo.cs
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.csproj.CoreCompileInputs.cache
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.dll
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/refint/primeiro_codigo.dll
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.pdb
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/primeiro_codigo.genruntimeconfig.cache
+/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/Debug/net8.0/ref/primeiro_codigo.dll
