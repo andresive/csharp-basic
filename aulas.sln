@@ -2,9 +2,9 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeiro_codigo", "primeiro_codigo\primeiro_codigo.csproj", "{642FAB52-B3EF-4019-8314-A38065184541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula1", "aula1\aula1.csproj", "{0653E2B4-CC23-4DAA-A902-A949F23219A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula01", "aula01\aula01.csproj", "{0653E2B4-CC23-4DAA-A902-A949F23219A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula2", "aula2\aula2.csproj", "{1C6E7E24-F629-45F7-85A1-E0835ECD58AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula02", "aula02\aula02.csproj", "{1C6E7E24-F629-45F7-85A1-E0835ECD58AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula03", "Aula03\Aula03.csproj", "{C281555C-8B43-4827-9E93-01F8F9DC1AC1}"
 EndProject
