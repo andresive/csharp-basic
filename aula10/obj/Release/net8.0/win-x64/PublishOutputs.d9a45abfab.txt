@@ -1,0 +1,5 @@
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/publish/aula10.exe
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/publish/aula10.dll
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/publish/aula10.deps.json
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/publish/aula10.runtimeconfig.json
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/publish/aula10.pdb

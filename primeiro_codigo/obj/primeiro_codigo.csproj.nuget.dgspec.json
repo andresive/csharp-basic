@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andresive/csharp/youtube/aula0/primeiro_codigo/primeiro_codigo.csproj": {}
+    "/home/andresive/csharp/youtube/aulas/primeiro_codigo/primeiro_codigo.csproj": {}
   },
   "projects": {
-    "/home/andresive/csharp/youtube/aula0/primeiro_codigo/primeiro_codigo.csproj": {
+    "/home/andresive/csharp/youtube/aulas/primeiro_codigo/primeiro_codigo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andresive/csharp/youtube/aula0/primeiro_codigo/primeiro_codigo.csproj",
+        "projectUniqueName": "/home/andresive/csharp/youtube/aulas/primeiro_codigo/primeiro_codigo.csproj",
         "projectName": "primeiro_codigo",
-        "projectPath": "/home/andresive/csharp/youtube/aula0/primeiro_codigo/primeiro_codigo.csproj",
+        "projectPath": "/home/andresive/csharp/youtube/aulas/primeiro_codigo/primeiro_codigo.csproj",
         "packagesPath": "/home/andresive/.nuget/packages/",
-        "outputPath": "/home/andresive/csharp/youtube/aula0/primeiro_codigo/obj/",
+        "outputPath": "/home/andresive/csharp/youtube/aulas/primeiro_codigo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andresive/.nuget/NuGet/NuGet.Config"

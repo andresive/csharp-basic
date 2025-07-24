@@ -1,0 +1,14 @@
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/aula10.exe
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/aula10.deps.json
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/aula10.runtimeconfig.json
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/aula10.dll
+/home/andresive/csharp/youtube/aula0/aula10/bin/Release/net8.0/win-x64/aula10.pdb
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.GeneratedMSBuildEditorConfig.editorconfig
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.AssemblyInfoInputs.cache
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.AssemblyInfo.cs
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.csproj.CoreCompileInputs.cache
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.dll
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/refint/aula10.dll
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.pdb
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/aula10.genruntimeconfig.cache
+/home/andresive/csharp/youtube/aula0/aula10/obj/Release/net8.0/win-x64/ref/aula10.dll

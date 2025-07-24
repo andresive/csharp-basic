@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/andresive/csharp/youtube/aula0/aula2/aula2.csproj",
+      "projectUniqueName": "/home/andresive/csharp/youtube/aulas/aula2/aula2.csproj",
       "projectName": "aula2",
-      "projectPath": "/home/andresive/csharp/youtube/aula0/aula2/aula2.csproj",
+      "projectPath": "/home/andresive/csharp/youtube/aulas/aula2/aula2.csproj",
       "packagesPath": "/home/andresive/.nuget/packages/",
-      "outputPath": "/home/andresive/csharp/youtube/aula0/aula2/obj/",
+      "outputPath": "/home/andresive/csharp/youtube/aulas/aula2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/andresive/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/andresive/csharp/youtube/aula0/aula06.1/aula06.1.csproj": {}
+    "/home/andresive/csharp/youtube/aulas/aula06.1/aula06.1.csproj": {}
   },
   "projects": {
-    "/home/andresive/csharp/youtube/aula0/aula06.1/aula06.1.csproj": {
+    "/home/andresive/csharp/youtube/aulas/aula06.1/aula06.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/andresive/csharp/youtube/aula0/aula06.1/aula06.1.csproj",
+        "projectUniqueName": "/home/andresive/csharp/youtube/aulas/aula06.1/aula06.1.csproj",
         "projectName": "aula06.1",
-        "projectPath": "/home/andresive/csharp/youtube/aula0/aula06.1/aula06.1.csproj",
+        "projectPath": "/home/andresive/csharp/youtube/aulas/aula06.1/aula06.1.csproj",
         "packagesPath": "/home/andresive/.nuget/packages/",
-        "outputPath": "/home/andresive/csharp/youtube/aula0/aula06.1/obj/",
+        "outputPath": "/home/andresive/csharp/youtube/aulas/aula06.1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/andresive/.nuget/NuGet/NuGet.Config"
